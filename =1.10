@@ -1,0 +1,6 @@
+Requirement already satisfied: appdirs in /home/arjun/.local/lib/python2.7/site-packages
+Requirement already satisfied: colorama in /home/arjun/.local/lib/python2.7/site-packages
+Requirement already satisfied: sh in /home/arjun/.local/lib/python2.7/site-packages
+Requirement already satisfied: jinja2 in /home/arjun/.local/lib/python2.7/site-packages
+Requirement already satisfied: six in /home/arjun/.local/lib/python2.7/site-packages
+Requirement already satisfied: MarkupSafe>=0.23 in /home/arjun/.local/lib/python2.7/site-packages (from jinja2)
